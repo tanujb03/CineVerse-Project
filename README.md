@@ -25,11 +25,11 @@ A JavaScript Framework: To potentially refactor the application for efficient st
 Project Roadmap
 The project is being built in distinct phases:
 
-✅ Phase 1: HTML Blueprint
+ Phase 1: HTML Blueprint
 
 All page structures and semantic layouts are complete. This forms the foundation of the entire application.
 
-➡️ Phase 2: CSS Styling
+ Phase 2: CSS Styling
 
 The next step is to style the application, focusing on a clean, modern, and responsive user interface.
 
