@@ -3,7 +3,7 @@ A responsive movie discovery app showcasing a progressive development workflow. 
 Key Features
 Multi-Page Structure: A complete blueprint with pages for home, movie discovery, watchlist, user accounts, and settings.
 
-Semantic HTML: Structured with modern HTML5 tags like <main>,<header>,<footer>,<aside>,<section> and <nav> for maximum clarity and accessibility.
+Semantic HTML: Structured with modern HTML5 tags like `<main>`,`<header>`,`<footer>`,`<aside>`,`<section>` and `<nav>` for maximum clarity and accessibility.
 
 Interactive Blueprints: Forms and controls are in place for all key user interactions, including search, login, sign up, profile editing, and sorting.
 
@@ -101,7 +101,7 @@ Currently, as this is a static HTML project, you can view it by:
 
 Cloning this repository.
 
-Opening any of the .html files directly in your web browser.
+Opening any of the `.html` files directly in your web browser.
 
 Acknowledgements
 This project relies entirely on the fantastic and free The Movie Database (TMDB) API for all movie-related data.
