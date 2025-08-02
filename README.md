@@ -1,4 +1,4 @@
-CineVerse
+CineVerse:
 A responsive movie discovery app showcasing a progressive development workflow. It features robust search, deep genre exploration, detailed movie info, and a watchlist, all powered by the TMDB API. The project starts with semantic HTML, evolving into a state-managed Single Page Application.
 Key Features
 Multi-Page Structure: A complete blueprint with pages for home, movie discovery, watchlist, user accounts, and settings.
@@ -54,4 +54,5 @@ This project relies entirely on the fantastic and free The Movie Database (TMDB)
 Contact
 Created by Tanuj Bhide - feel free to reach out!
 LINKEDIN PROFILE:  https://www.linkedin.com/in/tanuj-bhide-11112832a
+
 GITHUB PROFILE:   https://github.com/tanujb03
